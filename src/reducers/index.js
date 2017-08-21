@@ -38,4 +38,4 @@ const calendar = (state = initialCalendarState, action) => {
 	}
 }
 
-export default reducer
+export default calendar
